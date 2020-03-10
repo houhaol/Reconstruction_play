@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kinect_test", "kinect_test\kinect_test.vcxproj", "{B4FA410E-54BF-4905-8934-A0B620434C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4FA410E-54BF-4905-8934-A0B620434C05}.Debug|x64.ActiveCfg = Debug|x64
+		{B4FA410E-54BF-4905-8934-A0B620434C05}.Debug|x64.Build.0 = Debug|x64
+		{B4FA410E-54BF-4905-8934-A0B620434C05}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4FA410E-54BF-4905-8934-A0B620434C05}.Debug|x86.Build.0 = Debug|Win32
+		{B4FA410E-54BF-4905-8934-A0B620434C05}.Release|x64.ActiveCfg = Release|x64
+		{B4FA410E-54BF-4905-8934-A0B620434C05}.Release|x64.Build.0 = Release|x64
+		{B4FA410E-54BF-4905-8934-A0B620434C05}.Release|x86.ActiveCfg = Release|Win32
+		{B4FA410E-54BF-4905-8934-A0B620434C05}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F98DE42-9485-45E4-AE91-DF9A9ACE4669}
+	EndGlobalSection
+EndGlobal
